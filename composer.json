@@ -1,0 +1,16 @@
+{
+  "name": "onbalt/project1-portfolio_backend-php",
+  "description": "project1-portfolio backend (php)",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "onbalt",
+      "email": "github@onbalt.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "pug-php/pug": "2.4.5"
+  }
+}
